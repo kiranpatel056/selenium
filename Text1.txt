@@ -1,0 +1,28 @@
+ Volume in drive C is 10
+ Volume Serial Number is 2AC4-40F9
+
+ Directory of C:\Users\Sagar
+
+07-01-2019  12:16    <DIR>          .
+07-01-2019  12:16    <DIR>          ..
+28-11-2018  12:46    <DIR>          .eclipse
+07-01-2019  11:38    <DIR>          .p2
+28-11-2018  12:19    <DIR>          .tooling
+24-04-2018  16:05    <DIR>          3D Objects
+24-04-2018  16:05    <DIR>          Contacts
+08-12-2018  14:22    <DIR>          Desktop
+26-12-2018  21:19    <DIR>          Documents
+04-01-2019  12:50    <DIR>          Downloads
+28-11-2018  12:11    <DIR>          eclipse
+18-12-2018  15:52    <DIR>          eclipse-workspace
+21-06-2018  12:46    <DIR>          Favorites
+02-05-2018  21:40    <DIR>          Links
+24-04-2018  16:05    <DIR>          Music
+21-12-2018  14:06    <DIR>          OneDrive
+30-07-2018  20:00    <DIR>          Pictures
+24-04-2018  16:05    <DIR>          Saved Games
+24-04-2018  16:07    <DIR>          Searches
+07-01-2019  12:16                 0 Text1.txt
+24-04-2018  17:55    <DIR>          Videos
+               1 File(s)              0 bytes
+              20 Dir(s)  85,350,580,224 bytes free
